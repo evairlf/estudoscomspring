@@ -1,0 +1,3 @@
+module readFile {
+	exports readFile;
+}
